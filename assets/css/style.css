@@ -1,0 +1,17 @@
+.main-heading{
+  background-color: darkgreen;
+  text-align: center;
+  color:white ;
+}
+.section-heading{
+  background-color: darkgreen;
+  text-align: center;
+  color:white ;
+}
+.heading-art{
+  text-align: center;
+  text-transform: uppercase ;
+}
+.container{
+  text-indent: 1.25cm;
+}
